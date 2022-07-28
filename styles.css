@@ -892,6 +892,9 @@ color: #EAF6F6;
     #blog .blog-details {
         width: 100%;
     }
+    #page-header p {
+        text-align: center;
+    }
 
     
 }
